@@ -14,7 +14,7 @@ The differences in ride-sharing data among the different city types.
 
 ![image](https://user-images.githubusercontent.com/91682586/141694416-9d3ff3de-9b46-4301-8e89-68c6695c0604.png)
 
-#### - Total Rides:
+#### - Total Rides
 
     - The urban area show the highest number of rides with 1625.
     - Suburban cities show 625 rides.
@@ -33,16 +33,16 @@ The differences in ride-sharing data among the different city types.
     -   
 #### - Average fare per ride 
 
-Average Fares per ride are highest in the rural areas with $34.62 per ride, followed by $30.97 in suburban cities and
-$24.53 in urban cities.
+    -   Average Fares per ride are highest in the rural areas with $34.62 per ride, followed by $30.97 in suburban cities and
+        $24.53 in urban cities.
 
 #### - Average fare per driver
 
-Average fares per driver are again highest in rural cities with $55.49 per driver and
-$39.50 in suburban cities
-$16.57 in urban cities
-
-total fare by city type. 
+    -   Average fares per driver are again highest in rural cities with $55.49 per driver and
+        $39.50 in suburban cities
+        $16.57 in urban cities
+___
+### Total fare by city type 
 
 ![image](https://user-images.githubusercontent.com/91682586/141694474-229b85a9-d45d-4725-903f-2dc2ca522210.png)
 
