@@ -1,6 +1,6 @@
 # PyBer_Analysis.
-=======
-##Overview of the analysis:
+___
+## Overview of the analysis:
 
 The purpose of the analysis is to create a visually easy to understand report that summarizes the ride-sharing data by city type. 
 The report will utilize a multiple-line graph that shows the total weekly fares for each city type. 
