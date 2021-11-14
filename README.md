@@ -38,15 +38,13 @@ The differences in ride-sharing data among the different city types.
 
 #### - Average fare per driver
 
-    -   Average fares per driver are again highest in rural cities with $55.49 per driver and
-        $39.50 in suburban cities
-        $16.57 in urban cities
+    -   Average fares per driver are again highest in rural cities with $55.49 per driver, $39.50 in suburban cities, and $16.57 in urban cities
 ___
 ### Total fare by city type 
 
 ![image](https://user-images.githubusercontent.com/91682586/141694474-229b85a9-d45d-4725-903f-2dc2ca522210.png)
 
-In the date range between  Jan 01  and end of April the weekly total fare by city type shows the same pattern with
+In the date range between Jan 01  and end of April the weekly total fare by city type shows the same pattern with
 urban fares beeing about ...times higher than rural and ... times higher than suburban total fares.
 
 Demand peaks end of March for all 3 city types
