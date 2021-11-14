@@ -52,15 +52,15 @@ Demand peaks end of March for all 3 city types
 
 Summary:
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 The following business recommendations as a result of the analysis:
 
 Conduct more research on the demand in rural and suburban areas, e.g.
     -   find reasons for lower demand in this area 
     -   how many drivers are needed to meet that demand.
-    -   what would be incentives to recruit more drivers. 
+    -   what would be good incentives to recruit more drivers. 
 
 Develop targeted marketing strategies to increase demand in rural and suburban areas.
 
-
-
+    -   
+    -   
+    -   
