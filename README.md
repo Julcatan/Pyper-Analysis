@@ -55,7 +55,12 @@ Summary:
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 The following business recommendations as a result of the analysis:
 
-Find an incentive to recruit more drivers in rural and  suburban cities to increase number of drivers. 
-Conduct more research on the reasons for low demand in rural and suburban areas.
-Develop marketing strategies to increase demand in rural and suburban areas.
+Conduct more research on the demand in rural and suburban areas, e.g.
+    -   find reasons for lower demand in this area 
+    -   how many drivers are needed to meet that demand.
+    -   what would be incentives to recruit more drivers. 
+
+Develop targeted marketing strategies to increase demand in rural and suburban areas.
+
+
 
