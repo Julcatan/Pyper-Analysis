@@ -10,13 +10,47 @@ Finally the analysis will show how the data differs by city type and how those d
 
 The differences in ride-sharing data among the different city types. 
 
-total rides
+
+
+![image](https://user-images.githubusercontent.com/91682586/141694416-9d3ff3de-9b46-4301-8e89-68c6695c0604.png)
+
+total rides:
+The urban area show the highest number of rides with 1625.
+Total rides in the urban area are ... times higher than in the rural and ....time higher than in the suburban area respec,,,
+
 total drivers
+
+Urban areas have also the highest number of drivers.
+There are about  times as many urban drivers as in the rural and ... times as many as in the suburban areas
+
 total fares
-average fare per ride and driver
-total fare by city type. (7 pt)
+
+The total fares are also the highest in the urban areas
+
+average fare per ride 
+
+Average Fares per ride are highest in the rural areas with $34.62 per ride, followed by $30.97 in suburban cities and
+$24.53 in urban cities.
+
+average fare per driver
+
+Average fares per driver are again highest in rural cities with $55.49 per driver and
+$39.50 in suburban cities
+$16.57 in urban cities
+
+total fare by city type. 
+
+![image](https://user-images.githubusercontent.com/91682586/141694474-229b85a9-d45d-4725-903f-2dc2ca522210.png)
+
+In the date range between  Jan 01  and end of April the weekly total fare by city type shows the same pattern with
+urban fares beeing about ...times higher than rural and ... times higher than suburban total fares.
+
+Demand peaks end of March for all 3 city types
+
 
 Summary:
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
->>>>>>> 532fa29f3b8ee85d7757fabe97d3896e457cc37b
+The following business recommendations as a result of the analysis:
+
+increase amount  of 
