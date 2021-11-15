@@ -5,7 +5,7 @@ ___
 The purpose of the analysis is to create a visually easy to understand report that summarizes the ride-sharing data by city type. 
 The report will utilize a multiple-line graph that shows the total weekly fares for each city type. 
 Finally the analysis will show how the data differs by city type and how those differences can be used by decision-makers at PyBer.
-
+___
 ##Results:
 
 The differences in ride-sharing data among the different city types. 
@@ -57,18 +57,18 @@ Summary:
 
 The following are my business recommendations as a result of the analysis:
 
-Conduct more research on the demand, e.g.
+-       Conduct more research on the demand, e.g.
     -   Find reasons for lower demand in rural and suburban areas  
     -   Where are gaps in coverage
     -   Understand what type of customers are using  the service
     -   How many drivers are needed to meet that demand.
     -   What would be good incentive to recruit more drivers. 
     
-Conduct more research on target group and develop targeted marketing strategies to increase demand in rural and suburban areas.
+-       Conduct more research on target group and develop targeted marketing strategies to increase demand in rural and suburban areas.
   
-Possibly adjust business model. For an older population evaluate options to make access easier, e.g. to book in advance or by phone instead through an app
+-       Possibly adjust business model. For an older population evaluate options to make access easier, e.g. to book in advance or by phone instead through an app
  
-Evaluate Collaboration with other transportation providers e.g. sharing data. 
+-       Evaluate Collaboration with other transportation providers e.g. sharing data. 
    
    
     
