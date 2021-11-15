@@ -2,15 +2,13 @@
 ___
 ## Overview of the analysis:
 
-The purpose of the analysis is to create a visually easy to understand report that summarizes the ride-sharing data by city type. 
+The purpose of the analysis is to create a visually easy to understand report that summarizes the ride-sharing data by city type (Urban/Suburban/Rural). 
 The report will utilize a multiple-line graph that shows the total weekly fares for each city type. 
 Finally the analysis will show how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 ___
 ##Results:
 
 The differences in ride-sharing data among the different city types. 
-
-
 
 ![image](https://user-images.githubusercontent.com/91682586/141694416-9d3ff3de-9b46-4301-8e89-68c6695c0604.png)
 
