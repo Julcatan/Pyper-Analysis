@@ -58,19 +58,20 @@ Summary:
 The following are my business recommendations as a result of the analysis:
 
 Conduct more research on the demand, e.g.
-    -   find reasons for lower demand in rural and suburban areas  
-    -   where are gaps in coverage
-    -   what type of customers are using  the service
-    -   how many drivers are needed to meet that demand.
-    -   what would be good incentives to recruit more drivers. 
+    -   Find reasons for lower demand in rural and suburban areas  
+    -   Where are gaps in coverage
+    -   Understand what type of customers are using  the service
+    -   How many drivers are needed to meet that demand.
+    -   What would be good incentive to recruit more drivers. 
     
 Conduct more research on target group and develop targeted marketing strategies to increase demand in rural and suburban areas.
-    -   what type of customers are using  the service
+  
+Possibly adjust business model. For an older population evaluate options to make access easier, e.g. to book in advance or by phone instead through an app
+ 
+Evaluate Collaboration with other transportation providers e.g. sharing data. 
+   
+   
     
-
-Adjust business model according to results of further research
-
-    -   e.g. for an older population evaluate options to book in advance or by phone instead through an app
     
     
     
