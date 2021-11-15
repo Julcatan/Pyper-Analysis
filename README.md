@@ -20,17 +20,20 @@ The differences in ride-sharing data among the different city types.
     - Suburban cities show 625 rides.
     - Rural cities show 1625 rides.
 
-    - Total rides in the urban area are ... times higher than in the rural and ....time higher than in the suburban area respec,,,
+    - Total rides in the urban area are 13 times higher than in the rural and 5 times higher than in the suburban area respectively.
 
 #### - Total drivers
 
     -  Urban areas have also the highest number of drivers.
-    -  There are about  times as many urban drivers as in the rural and ... times as many as in the suburban areas
+    -  There are about 30 times as many urban drivers as in the rural and about 5 times as many as in the suburban areas.
 
 #### - Total fares
 
-    -   The total fares are also the highest in the urban areas
-    -   
+    -   The total fares are also the highest in the urban cities with $39,854
+    -   The total fares in the suburban cities are $19,356
+    -   The total fares in the rural cities are $4,327.93
+    
+       
 #### - Average fare per ride 
 
     -   Average Fares per ride are highest in the rural areas with $34.62 per ride, followed by $30.97 in suburban cities and
@@ -38,29 +41,39 @@ The differences in ride-sharing data among the different city types.
 
 #### - Average fare per driver
 
-    -   Average fares per driver are again highest in rural cities with $55.49 per driver, $39.50 in suburban cities, and $16.57 in urban cities
+    -   Average fares per driver are again highest in rural cities with $55.49 per driver, $39.50 in suburban cities, and $16.57 in urban cities.
 ___
 ### Total fare by city type 
 
 ![image](https://user-images.githubusercontent.com/91682586/141694474-229b85a9-d45d-4725-903f-2dc2ca522210.png)
 
-In the date range between Jan 01  and end of April the weekly total fare by city type shows the same pattern with
-urban fares beeing about ...times higher than rural and ... times higher than suburban total fares.
+In the date range between Jan 01  and end of April the weekly total fare by city type confirms the earlier observations with
+urban fares beeing consistently multiple times higher than suburban fares, and suburban cities having higher fares than rural cities.
 
-Demand peaks end of March for all 3 city types
+Demand peaks end of March for all 3 city types.
 
 
 Summary:
 
-The following business recommendations as a result of the analysis:
+The following are my business recommendations as a result of the analysis:
 
-Conduct more research on the demand in rural and suburban areas, e.g.
-    -   find reasons for lower demand in this area 
+Conduct more research on the demand, e.g.
+    -   find reasons for lower demand in rural and suburban areas  
+    -   where are gaps in coverage
+    -   what type of customers are using  the service
     -   how many drivers are needed to meet that demand.
     -   what would be good incentives to recruit more drivers. 
+    
+Conduct more research on target group and develop targeted marketing strategies to increase demand in rural and suburban areas.
+    -   what type of customers are using  the service
+    
 
-Develop targeted marketing strategies to increase demand in rural and suburban areas.
+Adjust business model according to results of further research
 
-    -   
-    -   
-    -   
+    -   e.g. for an older population evaluate options to book in advance or by phone instead through an app
+    
+    
+    
+
+
+    
