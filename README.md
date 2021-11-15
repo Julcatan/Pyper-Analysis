@@ -39,7 +39,7 @@ The differences in ride-sharing data among the different city types.
 
 #### - Average fare per driver
 
-    -   Average fares per driver are again highest in rural cities with $55.49 per driver, $39.50 in suburban cities, and $16.57 in urban cities.
+    -   Average fares per driver are highest in rural cities with $55.49 per driver, $39.50 in suburban cities, and $16.57 in urban cities.
 ___
 ### Total fare by city type 
 
@@ -62,9 +62,9 @@ The following are my business recommendations as a result of the analysis:
     -   How many drivers are needed to meet that demand.
     -   What would be good incentive to recruit more drivers. 
     
--       Conduct more research on target group and develop targeted marketing strategies to increase demand in rural and suburban areas.
+-       Develop targeted marketing strategies to increase demand in rural and suburban areas.
   
--       Possibly adjust business model. For an older population evaluate options to make access easier, e.g. to book in advance or by phone instead through an app
+-       Possibly adjust business model. For an older population evaluate options to make access easier, e.g. option to book in advance or by phone instead through an app
  
 -       Evaluate Collaboration with other transportation providers e.g. sharing data. 
    
